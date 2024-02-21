@@ -3,4 +3,4 @@ Adds a button at the top of the chatbox that opens a PokePaste webpage with the 
 
 ![](demo.gif)
 
-For the Chrome version of this extension, go ![here](https://github.com/chrisdentremont/showdown-sheet-viewer).
+For the Chrome version of this extension, go [here](https://github.com/chrisdentremont/showdown-sheet-viewer).
