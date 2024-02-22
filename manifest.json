@@ -14,5 +14,11 @@
       "matches": ["https://play.pokemonshowdown.com/*"],
       "js": ["scripts/script.js"]
     }
-  ]
+  ],
+
+  "browser_specific_settings": {
+    "gecko": {
+      "id": "chris.dentremont@outlook.com"
+    }
+  }
 }
